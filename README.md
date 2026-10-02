@@ -1,4 +1,4 @@
-<img width="2752" height="1536" alt="Gemini_Generated_Image_odgrjwodgrjwodgr" src="https://github.com/user-attachments/assets/cce41876-5429-4501-9060-fc3059732049" />
+
 
 <div align="center">
   <!-- Banner corporativo de Black Kode -->
