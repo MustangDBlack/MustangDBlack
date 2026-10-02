@@ -4,7 +4,7 @@
   <!-- Banner corporativo de Black Kode -->
  <img width="2752" height="1536" alt="Gemini_Generated_Image_odgrjwodgrjwodgr" src="https://github.com/user-attachments/assets/cce41876-5429-4501-9060-fc3059732049" />
 
-# Hola, soy Ezequiel 👋
+# Hola, soy Mustang D. Black 👋
 ### CEO en Black Kode | Desarrollador Full-Stack & UI/UX
 
 Desde San Salvador de Jujuy, dirijo **Black Kode**, donde construimos ecosistemas de software de alto rendimiento para el sector comercial, educativo e institucional. Mi enfoque abarca el ciclo completo del desarrollo: desde arquitecturas sólidas en backend y frontend (SPA), hasta el despliegue de aplicaciones de escritorio multiplataforma e infraestructura física.
